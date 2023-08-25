@@ -24,7 +24,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'v90s0F7aODXmE3gopqIoYgkhB9a8kSTWFE-o1coqcZw',
       PROVINCE: '河南',
-      CITY: '安阳',
+      CITY: '信阳',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [

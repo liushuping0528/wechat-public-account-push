@@ -99,7 +99,7 @@ const USER_CONFIG = {
           type: '节日', name: '周年纪念日', year: '2023', date: '07-06',
         },
         {
-          type: '节日', name: '2024跨年', year: '2024', date: '01-01',
+          type: '节日', name: '2025跨年', year: '2025', date: '01-01',
         },
       ],
       // 我们在一起已经有xxxx天了的配置

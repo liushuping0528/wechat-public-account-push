@@ -86,10 +86,10 @@ const USER_CONFIG = {
           type: '节日', name: '第一次相识', year: '2023', date: '04-02',
         },
         {
-          type: '节日', name: '七夕', year: '2023', date: '08-22',
+          type: '*节日', name: '七夕', year: '2023', date: '07-07',
         },
         {
-          type: '节日', name: '中秋节', year: '2023', date: '09-29',
+          type: '*节日', name: '中秋节', year: '2023', date: '08-15',
         },
         {
           type: '节日', name: '国庆节', year: '2023', date: '10-01',

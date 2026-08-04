@@ -1,4 +1,4 @@
-/* eslint-disable */
+F/* eslint-disable */
 
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '7106a6dc7d3e2e4e19d8c48b9e85cd78',
 
-  PROVINCE: '江苏',
-  CITY: '宿迁',
+  PROVINCE: '河南',
+  CITY: '安阳',
 
   USERS: [
     {
